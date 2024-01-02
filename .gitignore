@@ -1,0 +1,30 @@
+# Ignore logs
+logs
+*.log
+npm-debug.log*
+
+# Ignore Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Ignore build or dist directories
+build/
+dist/
+
+# Ignore any compiled or minified files
+*.min.js
+*.min.css
+
+# Ignore any temporary or backup files
+*~
+*.bak
+
+# Ignore IDE/Editor directories
+.idea
+.vscode
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
