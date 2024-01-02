@@ -13,9 +13,9 @@ pids
 build/
 dist/
 
-# Ignore any compiled or minified files
-*.min.js
-*.min.css
+# # Ignore any compiled or minified files
+# *.min.js
+# *.min.css
 
 # Ignore any temporary or backup files
 *~
